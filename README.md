@@ -1,2 +1,1 @@
-# graphql-apollo-full
-📊 GraphQL Apollo getting started project
+# GRAPHQL X APOLLO X CLIENT X SERVER
